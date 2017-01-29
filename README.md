@@ -32,4 +32,8 @@ point. Finally, I did some more normal driving to smoothen the model out again. 
 ## Reflection
 What an awesome project! I spent a lot of time playing with architectures, and feel like I'm starting to gain an appreciation for
 the level of effort that must have gone into designing those top-notch competition and production networks. It's also sinking in
-how much time it takes to train a network from scratch. Very exciting stuff!
+how much time it takes to train a network from scratch.
+
+Unfortunately, my model is not polished at this point. It can navigate the whole course 1, and does okay on course 2, but it's not
+smooth. Mostly what is lacking is good data. I definitely intend to revisit the project and polish things up. I've learned so much,
+and as soon as I can afford to tie up my computer with a day or two of training I will!
